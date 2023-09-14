@@ -1,0 +1,26 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    border: none;
+
+}
+.choiceBtn:hover{
+    background-color: blueviolet;
+}
+#gameDiv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: none;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(224, 238, 30);
+    text-align: center;
+}
+#playerText{
+    color: green;
+}
+#computerText{
+    color: red;
+}
